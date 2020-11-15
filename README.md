@@ -3,7 +3,7 @@
 Use OpenCore to install macOS Big Sur afresh. No macOS Catalina needed. 
 
 ## Warning
-**Don't copy this EFI**, but use it as reference. Its probably best you go the "hard way": compile your own ACPI files. I chose the easy way, and I would say that is harder than the hard way (when it doesn't work).
+**Don't copy this EFI**, but use it as reference. Its probably best you go the "hard way": compile your own ACPI files. I first chose the easy way (prebult SSDTs), and I would say that is harder than the hard way/ [manually creating SSDTs](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-methods/ssdt-long.html).
 
 ## Specs and prices:
 
