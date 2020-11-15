@@ -1,7 +1,7 @@
 # Introduction
 
 Use OpenCore to install macOS Big Sur.
-> They said we couldn't use XFX graphics cards. They said we couldn't use MSI's motherboards. **You can.**
+> They said we shouldn't use XFX graphics cards. They said we might not be able to use MSI's motherboards. **You can.**
 
 ## Warning
 **Don't copy this EFI**, but use it as reference. Its probably best you go the "hard way": compile your own ACPI files. I first chose the easy way (prebult SSDTs), and I would say that is harder than the hard way/ [manually creating SSDTs](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-methods/ssdt-long.html).
