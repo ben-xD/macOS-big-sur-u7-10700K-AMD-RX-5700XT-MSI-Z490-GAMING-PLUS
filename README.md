@@ -2,6 +2,9 @@
 
 Use OpenCore to install macOS Big Sur afresh. No macOS Catalina needed. 
 
+## Warning
+**Don't copy this EFI**, but use it as reference. Its probably best you go the "hard way": compile your own ACPI files. I chose the easy way, and I would say that is harder than the hard way (when it doesn't work).
+
 ## Specs and prices:
 
 > They said we couldn't use XFX graphics cards. They said we couldn't use MSI's motherboards. **You can.**
