@@ -27,6 +27,6 @@ The MSI BIOS menu is a little hard to wrap your head around. To enable/ disable 
 
 ## Special thanks to:
 
-Anmol92verma and his repo: https://github.com/Anmol92verma/z490_opencore_msi
-Laura Müller for writing [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
-OpenCore contributors
+- Anmol92verma and his repo: https://github.com/Anmol92verma/z490_opencore_msi
+- Laura Müller for writing [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
+- OpenCore contributors
