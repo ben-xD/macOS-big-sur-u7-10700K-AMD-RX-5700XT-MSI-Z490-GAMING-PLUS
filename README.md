@@ -22,6 +22,9 @@ Use OpenCore to install macOS Big Sur afresh. No macOS Catalina needed.
 
 ![macOS "about this mac" page](screenshot.png)
 
+## Warning
+The MSI BIOS menu is a little hard to wrap your head around. To enable/ disable some of the 
+
 ## Special thanks to:
 
 Anmol92verma and his repo: https://github.com/Anmol92verma/z490_opencore_msi
