@@ -1,17 +1,16 @@
 # Introduction
 
-Use OpenCore to install macOS Big Sur afresh. No macOS Catalina needed. 
+Use OpenCore to install macOS Big Sur.
+> They said we couldn't use XFX graphics cards. They said we couldn't use MSI's motherboards. **You can.**
 
 ## Warning
 **Don't copy this EFI**, but use it as reference. Its probably best you go the "hard way": compile your own ACPI files. I first chose the easy way (prebult SSDTs), and I would say that is harder than the hard way/ [manually creating SSDTs](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-methods/ssdt-long.html).
 
 ## Specs and prices:
 
-> They said we couldn't use XFX graphics cards. They said we couldn't use MSI's motherboards. **You can.**
-
 **Total:** £1,337
 
-- £342 Intel Core i7-10700K Unlocked Processor
+- £342: Intel Core i7-10700K Unlocked Processor
 - £383: XFX RX 5700 XT Triple Dissipation 8GB
 - £155: MSI MPG Z490 GAMING PLUS ATX Motherboard for Intel LGA1200 CPUs
 - £110: Corsair Vengeance Pro RGB 32GB DDR4 3200MHz CL16 2x16GB Dual Channel Memory Kit
