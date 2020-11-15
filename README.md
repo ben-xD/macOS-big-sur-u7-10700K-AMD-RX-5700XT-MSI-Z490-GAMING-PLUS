@@ -20,7 +20,7 @@ Use OpenCore to install macOS Big Sur afresh. No macOS Catalina needed.
 
 ## Screenshot
 
-![macOS "about this mac" page](Screenshot 2020-11-15 at 16.25.29.png)
+![macOS "about this mac" page](screenshot.png)
 
 ## Special thanks to:
 
