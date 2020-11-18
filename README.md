@@ -25,10 +25,7 @@ Use OpenCore to install macOS Big Sur.
 ![macOS "about this mac" page](screenshot.png)
 
 ## Warning about the BIOS menu
-The MSI BIOS menu is a little hard to wrap your head around. To enable/ disable some of the bios options suggested by OpenCore (e.g. enable virtualization/ hyperthreading, disable VT-d or CFG Lock, you need to go into the **OC (overclocking) option**, and then look under 2 sub-sections, Advanced CPU configuration (near the top of the list) and another option near the bottom of the list.
-
-## Sound issues?
-- Change `alcid=1` to `alcid=11`
+The MSI BIOS menu is a little hard to wrap your head around. To enable/ disable some of the bios options suggested by OpenCore (e.g. enable virtualization/ hyperthreading, disable VT-d or CFG Lock, you need to go into the **OC (overclocking) option**, and then look under 2 sub-sections, Advanced CPU configuration (near the top of the list) and another option near the bottom of the list. I suggest generally spending a significant amount of time playing with your BIOS menu.
 
 ## Special thanks to:
 
